@@ -34,9 +34,6 @@ public class Solution {
         if(removed != null && removed.next != null){
             target.next = removed.next;
         }
-
-
-
         return head;
     }
 
