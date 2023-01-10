@@ -1,4 +1,4 @@
-package array.solution_724;
+package array.solution_27;
 
 public class RemoveElem_27 {
     /***
